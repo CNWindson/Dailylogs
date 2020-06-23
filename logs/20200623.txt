@@ -1,0 +1,4 @@
+1.学习tensorflow 2.0 RNN LSTM GRU相关代码。
+2.翻译文献。
+3.学习unreal engine。
+4.学习数据结构。
